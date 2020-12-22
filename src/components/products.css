@@ -1,0 +1,24 @@
+/* itemSet{
+  text-align: center;  
+  color:black;  
+  padding: 20px;  
+  width: 450px;  
+  overflow: hidden;  
+  margin: auto;  
+  margin: 20 0 0 450px;  
+  padding: 20px;  
+  background: #eeeef1;  
+  border-radius: 10px ;
+} */
+
+.row {
+  display: flex;
+  margin: auto;  
+  margin: 20 0 0 450px;  
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  margin: 20 0 0 450px;  
+}
